@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RecordKeeper" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/green_200</item>
+        <item name="colorPrimaryVariant">@color/green_800</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnBackground">@color/white</item>
+    </style>
+
+    <style name="Theme.RecordKeeper" parent="Base.Theme.RecordKeeper" />
+</resources>
